@@ -1,4 +1,3 @@
-\`
 
 **TensorFlow Model Training & Analysis**
 
@@ -12,8 +11,13 @@ techniques.
 
 **Student Information**
 
-**Name:** Tadikonda Gnandeep **ID:** 700759736 **University:**
-University of Central Missouri **Email:**gxt97360@ucmo.edu.com
+**Name:** Tadikonda Gnandeep 
+
+**ID:** 700759736 
+
+**University:**University of Central Missouri
+
+**Email:**gxt97360@ucmo.edu.com
 
 **Project Tasks**
 
